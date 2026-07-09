@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "mae": 1.581,
+    "r2": 0.534
+  },
+  "residual_std": 1.711,
+  "features": [
+    "month",
+    "day_of_week",
+    "is_weekend",
+    "temperature"
+  ]
+}
